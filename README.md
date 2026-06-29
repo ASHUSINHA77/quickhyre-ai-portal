@@ -29,19 +29,3 @@ QuickHyre AI is a scalable, full-stack web application designed to streamline en
 * **Security:** Secured endpoints using JWT authentication, password hashing, and CORS configurations.
 * **Scalability:** Optimized database schemas and queries to handle robust indexing for data retrievals.
 
----
-
-## 💻 Getting Started
-
-Follow these instructions to set up and run the project locally.
-
-### Prerequisites
-* Node.js (v16.x or higher)
-* MongoDB / MySQL instance running locally or via cloud (e.g., MongoDB Atlas)
-
-### Installation & Local Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ASHUSINHA77/your-repo-name.git](https://github.com/ASHUSINHA77/your-repo-name.git)
-   cd your-repo-name
